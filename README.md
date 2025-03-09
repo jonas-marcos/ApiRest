@@ -1,0 +1,33 @@
+# Atividade da Disciplina de Desenvolvimento WEB - Jonas Marcos Dias Rocha
+
+# 🚀 Gerenciador de Usuários - GoRest API
+
+## 📌 Sobre o Projeto
+Este projeto foi desenvolvido para consumir a API pública **GoRest**, permitindo listar e cadastrar usuários de forma simples e intuitiva.  
+
+Como a GoRest **não fornece imagens dos usuários**, utilizei a API **UI Avatars** para gerar automaticamente avatares personalizados com base nas iniciais do nome de cada usuário.  
+
+## 🎯 Objetivo  
+O objetivo deste projeto é aplicar conceitos de **requisições GET e POST** utilizando **Fetch API**, além de exibir dinamicamente os dados obtidos da API GoRest.  
+
+## 🛠 Tecnologias Utilizadas  
+- **HTML** → Estrutura da página  
+- **CSS** → Estilização e layout responsivo  
+- **JavaScript (JS Puro)** → Manipulação e requisições HTTP  
+- **Fetch API** → Comunicação com a API GoRest  
+- **UI Avatars API** → Geração dinâmica de avatares  
+
+## 🔥 Funcionalidades  
+✅ Listar usuários cadastrados na API (GET)  
+✅ Criar novos usuários na API (POST)  
+✅ Exibir avatares gerados automaticamente (UI Avatars)   
+
+## 📸 Como Funciona  
+1. Clique no botão **"Carregar Usuários"** para buscar e exibir os usuários cadastrados na GoRest.  
+2. Preencha o formulário e clique em **"Criar Usuário"** para adicionar um novo usuário à API.  
+3. Os avatares são gerados dinamicamente usando **UI Avatars**, pois a GoRest não fornece imagens.  
+
+## 🚀 Como Executar o Projeto  
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/jonas-marcos/ApiRest.git
