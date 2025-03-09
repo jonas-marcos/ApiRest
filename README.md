@@ -38,6 +38,6 @@ O objetivo deste projeto é aplicar conceitos de **requisições GET e POST** ut
 ## 🚀 Como Executar o Projeto  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+   git clone https://github.com/jonas-marcos/ApiRest.git
    ```
 2. Abra o arquivo `index.html` no navegador
