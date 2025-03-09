@@ -30,10 +30,10 @@ O objetivo deste projeto é aplicar conceitos de **requisições GET e POST** ut
 3. Os avatares são gerados dinamicamente usando **UI Avatars**, pois a GoRest não fornece imagens.  
 
 ## 📚 Créditos 
-- API utilizada: **[GoRest](https://gorest.co.in/)**  
+- API utilizada e Documentação: **[GoRest](https://gorest.co.in/)**  
 - Geração de avatares: **[UI Avatars](https://ui-avatars.com/)**  
 - Documentação Fetch API: **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**  
-- Estilização e CSS Responsivo: **[W3Schools](https://www.w3schools.com/)** 
+- Estilização e CSS: **[W3Schools](https://www.w3schools.com/)** 
 
 ## 🚀 Como Executar o Projeto  
 1. Clone o repositório:  
