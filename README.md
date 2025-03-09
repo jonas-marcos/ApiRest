@@ -1,4 +1,4 @@
-Autor - Jonas Marcos Dias Rocha
+# Autor - Jonas Marcos Dias Rocha
 
 # 🚀 Gerenciador de Usuários - GoRest API
 
