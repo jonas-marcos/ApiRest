@@ -41,3 +41,7 @@ O objetivo deste projeto é aplicar conceitos de **requisições GET e POST** ut
    git clone https://github.com/jonas-marcos/ApiRest.git
    ```
 2. Abra o arquivo `index.html` no navegador
+
+
+## 📜 Licença  
+Este projeto está licenciado sob a **MIT License**.
