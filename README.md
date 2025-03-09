@@ -44,4 +44,4 @@ O objetivo deste projeto é aplicar conceitos de **requisições GET e POST** ut
 
 
 ## 📜 Licença  
-Este projeto está licenciado sob a **MIT License**.
+Este projeto está licenciado sob a **[MIT License](https://github.com/jonas-marcos/ApiRest/blob/main/LICENSE)**.  
