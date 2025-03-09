@@ -1,9 +1,11 @@
-# Atividade da Disciplina de Desenvolvimento WEB - Jonas Marcos Dias Rocha
+Autor - Jonas Marcos Dias Rocha
 
 # 🚀 Gerenciador de Usuários - GoRest API
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido para consumir a API pública **GoRest**, permitindo listar e cadastrar usuários de forma simples e intuitiva.  
+- API utilizada: **[GoRest](https://gorest.co.in/)**
+
 
 Como a GoRest **não fornece imagens dos usuários**, utilizei a API **UI Avatars** para gerar automaticamente avatares personalizados com base nas iniciais do nome de cada usuário.  
 
