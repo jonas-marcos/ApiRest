@@ -42,6 +42,10 @@ O objetivo deste projeto é aplicar conceitos de **requisições GET e POST** ut
    ```
 2. Abra o arquivo `index.html` no navegador
 
+## 🚀 Deploy
+Este projeto está disponível online! Você pode acessá-lo através do link abaixo:
+
+🔗 **[Acesse o Projeto Aqui](https://api-rest-gorest.netlify.app/)**
 
 ## 📜 Licença  
 Este projeto está licenciado sob a **[MIT License](https://github.com/jonas-marcos/ApiRest/blob/main/LICENSE)**.  
